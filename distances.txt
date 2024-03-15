@@ -1,0 +1,8 @@
+
+    fiber->small: 13.06 | 292.3 pix | Cone Diam: 16.429 deg
+    fiber->large: 17.06
+
+    FWHM (small): 1.21873 deg
+    FWHM (large): 1.21873 deg
+
+    
